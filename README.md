@@ -5,7 +5,7 @@
 The `demo-repo-js` project is a repository template primarily intended for testing and
 demonstration purposes with stacklok projects. It is a simple JS project that allows you to
 quickly get started with testing and demonstrating how you can use Minder and Trusty with
-your Python projects. It features continuous integration (CI) workflows that demonstrate how to
+your Javascript projects. It features continuous integration (CI) workflows that demonstrate how to
 build, test, and sign artifacts using Sigstore and GitHub Attestations.
 
 
